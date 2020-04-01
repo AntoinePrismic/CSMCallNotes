@@ -1,4 +1,4 @@
-ss = SpreadsheetApp.getActiveSpreadsheet();
+ss = SpreadsheetApp.getActiveSpreadsheet(); /*THIS IS A TEST*/
 spreadsheetName = ss.getName();
 introcallNotesSheet = ss.getSheetByName("Introcall Notes");
 settingsSheet = ss.getSheetByName("Settings");
